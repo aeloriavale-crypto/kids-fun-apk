@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.kidsfun.game",
+  "appName": "Kids Fun",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
